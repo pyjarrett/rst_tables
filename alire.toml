@@ -1,0 +1,9 @@
+name = "rst_tables"
+description = "Shiny new project"
+version = "0.0.0"
+
+authors = ["Paul Jarrett"]
+maintainers = ["Paul Jarrett <jarrett.paul.young@gmail.com>"]
+maintainers-logins = ["pyjarrett"]
+
+executables = ["rst_tables"]
